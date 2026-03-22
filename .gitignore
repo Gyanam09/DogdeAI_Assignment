@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+*.db
+*.sqlite3
+.venv/
+venv/
+dist/
+*.egg-info/
+
+# Node
+node_modules/
+frontend/dist/
+frontend/.env
+
+# Data files (add back if you want to commit sample data)
+backend/data/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
