@@ -16,7 +16,6 @@ frontend/dist/
 frontend/.env
 
 # Data files (add back if you want to commit sample data)
-backend/data/
 
 # OS
 .DS_Store
